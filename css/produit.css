@@ -1,0 +1,92 @@
+body
+{
+	/*background-color: rgb(192, 192, 192);*/
+	width: 1250px;
+	height: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	font-family: Georgia, "Times New Roman",
+        Times, serif;
+}
+
+button
+{
+	width: 210px;
+	border-radius: 15px; /*bordure arrondie */
+	border: 1px #CCFFFF double;
+	text-shadow: 1px 3px 3px red; /*ombre texte */
+}
+
+#border
+{	
+	width: 550px;
+	height: 165px;
+	border-width: 0px;
+	border-color: black;
+	border-style: solid;
+	margin-top: 5px;
+    margin-left: 334px;
+	background-color: rgb(87,160,0);
+
+}
+
+.long_bouton
+{
+	width:210px;
+	margin-left: -30px;
+}
+#m
+{
+margin-left: 30px;
+}
+
+#l
+{
+margin-left: 0.5px;
+}
+
+#ta
+{
+	 padding-top: 5px;
+    padding-left: 16px;
+}
+
+
+table
+{
+    padding-top: 13px;
+    padding-left: 340px;
+
+   /* margin-left: 264px; */
+
+}
+#bleu
+{
+	background-color: rgb(87,160,0);
+	text-align: center;
+}
+
+#vert
+{
+	background-color: rgb(255,255,255);
+	text-align: center;
+}
+
+h1
+{
+	text-align: center;
+	font-family: Georgia, "Times New Roman",
+        Times, serif;
+}
+
+#liss
+{
+	margin-left: 40px;
+position: relative;
+
+    left: 266px;
+    width: 100px;
+    bottom: 27px;
+
+}

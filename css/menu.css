@@ -1,0 +1,92 @@
+body
+{
+    background-image: url("images/fonf.jpg");
+     /*background-color: #b0dddf;*/ 
+	font-family: Georgia, "Times New Roman",
+        Times, serif;
+}
+
+#bloc_page
+{
+    width: 900px;
+    margin: auto;
+}
+
+
+/* Header */
+
+
+#recherche
+{
+	width: 1235px;
+    text-align: right;
+	margin-top: 15px;
+}
+
+#mn 
+{
+    width: 95px;
+    border-radius: 4px 4px;
+}
+
+#user_dec
+{
+	display: inline-block;
+	width: 1235px;
+    text-align: right;
+	margin-top: 10px;
+
+}
+
+#deconnection, #add_user
+{
+	display: inline-block;
+		
+	
+}
+
+
+header
+{	
+	background: url('images/nadia_market.png') no-repeat bottom left, url('images/separateur.png') repeat-x bottom;
+	background-color: rgb(87,160,0);
+	box-shadow: 0px 4px 4px #1c1a19;
+    margin-bottom: 25px;
+	border: 1px solid;
+    border-radius: 10px;
+}
+
+/* Navigation */
+
+nav
+{
+    display: inline-block;
+    width: 1250px;
+    text-align: right;
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 11px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: black;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: gray;
+    border-bottom: 2px solid gray;
+}
+

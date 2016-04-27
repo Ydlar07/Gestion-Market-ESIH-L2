@@ -1,0 +1,75 @@
+body
+{
+	background: url('css/images/fonf.jpg');
+	/*background-color: #b0dddf; */
+	width: 1250px;
+	height: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	font-family: Georgia, "Times New Roman",
+        Times, serif;
+}
+
+button
+{
+	width: 210px;
+	border-radius: 15px; /*bordure arrondie */
+	border: 1px #CCFFFF double;
+	text-shadow: 1px 3px 3px red; /*ombre texte */
+	
+}
+
+#border
+{	
+	width: 550px;
+	height: 145px;
+	border-width: 0px;
+	border-color: black;
+	border-style: solid;
+	margin-top: 5px;
+    margin-left: 334px;
+	background-color: rgb(0,95,255);
+	opacity: 0.95;
+}
+
+.long_bouton
+{
+	width:210px;
+}
+
+table
+{
+    padding-top: 13px;
+    padding-left: 285px;
+
+   /* margin-left: 264px; */
+
+}
+
+h1
+{
+	text-align: center;
+	font-family: Georgia, "Times New Roman",
+        Times, serif;
+}
+
+#bleu
+{
+	background-color: rgb(87,160,0);
+	text-align: center;
+}
+
+#vert
+{
+	background-color: rgb(255,255,255);
+	text-align: center;
+}
+
+#liss
+{
+	position: relative;
+    left: 266px;
+    width: 100px;
+    bottom: 27px;
+}
